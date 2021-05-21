@@ -19,11 +19,11 @@
 
   ## Media
 
-  # Wireframe
+  ### Wireframe
   
- (./assets/images/wireframe.png)
+ ![](./assets/images/wireframe.png)
 
-  # Deployed Site
+  ## Deployed Site
   Coming Soon!
   
 
