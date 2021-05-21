@@ -21,7 +21,7 @@
 
   # Wireframe
   
-  [Click this link to watch the mock-up video.](../assets/images/wireframe.png)
+ (./assets/images/wireframe.png)
 
   # Deployed Site
   Coming Soon!
