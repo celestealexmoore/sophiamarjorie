@@ -44,13 +44,13 @@ Technologies include HTML, CSS, Javascript, ReactJS, Tailwind, Node, Redux, Mong
 
 ## User Story
 
-    `AS A stylist accepting clients online for an upscale salon  
+    AS A stylist accepting clients online for an upscale salon  
     I WANT to my clientele to be able to browse services and book appointments, make payments, and receive confirmation emails of their booked service  
-    SO THAT I can balance my schedule worry-free and increase my income`
+    SO THAT I can balance my schedule worry-free and increase my income
 
 ## Acceptance Criteria
 
-    `GIVEN that a user has accessed the website
+    GIVEN that a user has accessed the website
     WHEN the user views the homepage
     THEN they are presented with a functional navigation bar or hamburger menu, (mobile).
 
@@ -68,7 +68,7 @@ Technologies include HTML, CSS, Javascript, ReactJS, Tailwind, Node, Redux, Mong
 
     GIVEN that a user selects *CONTACT*
     WHEN the user fills out the contact form
-    THEN a confirmation email will be sent to both  the stylist and user`
+    THEN a confirmation email will be sent to both  the stylist and user
 
 ## Deployed Site
 
