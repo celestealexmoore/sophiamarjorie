@@ -6,23 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home | Sophia's Beauties</title>
     <link rel="stylesheet" href="./develop/styles.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-p34f1UUtsS3wqzfto5wAAmdvj+osOnFyQFpp4Ua3gs/ZVWx6oOypYoCJhGGScy+8" crossorigin="anonymous"></script>
 </head>
 
 <body>
 
     <header>
-        <!--nav bar-->
-        <nav class="navbar navbar-light bg-light">
-            <form class="form-inline">
-              <button class="btn btn-sm btn-outline-secondary" type="button">Home</button>
-              <button class="btn btn-sm btn-outline-secondary" type="button">About</button>
-              <button class="btn btn-sm btn-outline-secondary" type="button">Gallery</button>
-              <button class="btn btn-sm btn-outline-secondary" type="button">Services</button>
-              <button class="btn btn-sm btn-outline-secondary" type="button">Contact</button>
-            </form>
-        </nav>
+      
     </header>
 
     <section>
@@ -34,34 +23,39 @@
 
     <footer>
 
-        <div id="testimonials">
-            [insert text here]
+        <div id="covid">
+            <button id="covidButton">COVID</button>
+            <div id="modal" class="modal"></div>
         </div>
 
-        <div id="contactText">
+        <div id="locationInfo">
             <ul>
                 <li>Stylz by Sophia</li>
                 <li>Reserve Salon & Spa</li>
                 <li>9945 Baker Cypress ste 200</li>
                 <li>Cypress, TX 77433</li>
                 <li>(713) 445-6363</li>
-                <li>info@StylzbySophia.com</li>
             </ul>
         </div>
 
         <div id="googleMap">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3457.9833721814693!2d-95.68948678488773!3d29.92238088192684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640d68aa2bffffd%3A0xa028e310be09b9a6!2s9945%20Barker%20Cypress%20Rd%20Suite%20200%2C%20Cypress%2C%20TX%2077433!5e0!3m2!1sen!2sus!4v1620786244232!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3457.9833721814693!2d-95.68948678488773!3d29.92238088192684!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8640d68aa2bffffd%3A0xa028e310be09b9a6!2s9945%20Barker%20Cypress%20Rd%20Suite%20200%2C%20Cypress%2C%20TX%2077433!5e0!3m2!1sen!2sus!4v1620786244232!5m2!1sen!2sus" width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
 
-        <div id="socialMediaIcons">
+        <div id="contactIcons">
+            <a href="tel:+7134456363">
+            <img id="callIcon" src="assets/logos-img/call-logo.jpeg">
+            </a>
+            <a href="mailto: abc@example.com">
+            <img id="emailIcon" src="assets/logos-img/email-logo.jpeg">
+            </a>
             <a href="https://www.instagram.com/stylz_bysophia/">
-            <img src="assets/logos-img/insta-logo.png">
+            <img id="instaIcon" src="assets/logos-img/insta-logo.png">
             </a>
         </div>
 
     </footer>
     
-
     <script src="./develop/script.js"></script>
 </body>
 
