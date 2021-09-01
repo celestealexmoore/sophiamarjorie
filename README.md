@@ -44,7 +44,9 @@ Technologies include HTML, CSS, Javascript, ReactJS, Tailwind, Node, Redux, Mong
 
 ## User Story
 
-    `AS A stylist accepting clients online for an upscale salon I WANT to my clientele to be able to browse services and book appointments, make payments, and receive confirmation emails of their booked service SO THAT I can balance my schedule worry-free and increase my income`
+    `AS A stylist accepting clients online for an upscale salon  
+    I WANT to my clientele to be able to browse services and book appointments, make payments, and receive confirmation emails of their booked service  
+    SO THAT I can balance my schedule worry-free and increase my income`
 
 ## Acceptance Criteria
 
