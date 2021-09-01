@@ -14,9 +14,9 @@
 
 - [Media](#Media)
 
-- [User-Story](#user-story)
+- [User Story](#user-story)
 
-- [Acceptance-Criteria](#acceptance-criteria)
+- [Acceptance Criteria](#acceptance-criteria)
 
 - [Deployed Site](#deployed-site)
 
@@ -26,9 +26,9 @@
 
 - [Contact](#Contact)
 
-- [Project-Status](Status)
+- [Project Status](#project-Status)
 
-- [License](License)
+- [License](#License)
 
 ---
 
