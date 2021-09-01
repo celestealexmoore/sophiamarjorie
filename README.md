@@ -31,9 +31,11 @@
 ---
 
 ## Description
-    This is a website for my incredibly talented sister, Sophia, who is a hairstylist in Houston, Texas. I am attempting to re-create her existing site with improvements to the design, navigation and overall user experience.
+    This is a website for my incredibly talented sister, Sophia, who is a hairstylist in Houston, Texas.  
+    I am attempting to re-create her existing website with improvements to the design, navigation and overall user experience.
 
-    Technologies include HTML, CSS, Javascript, ReactJS, Tailwind, Node, Redux, MongoDB and GraphQL.
+    Technologies include:  
+    HTML, CSS, Javascript, ReactJS, Tailwind, Node, Redux, MongoDB and GraphQL.
 
 ## Media
 
