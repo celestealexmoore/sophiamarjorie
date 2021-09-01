@@ -26,7 +26,7 @@
 
 - [Contact](#Contact)
 
-- [Project Status](#project-Status)
+- [Project Status](#project-status)
 
 - [License](#License)
 
@@ -91,7 +91,7 @@ This website was created by Celeste Moore.
 If you have any questions about this repository, contact celestealexmoore via GitHub or reach out via email:
 celestealexmoore@gmail.com.
 
-## Status
+## Project Status
 
 In Progress
 
