@@ -18,7 +18,7 @@
 
 - [Acceptance-Criteria](#acceptance-criteria)
 
-- [Deployed-Site](#deployment)
+- [Deployed Site](#deployed-site)
 
 - [Features](#Features)
 
@@ -26,7 +26,9 @@
 
 - [Contact](#Contact)
 
-- [Status](Status)
+- [Project-Status](Status)
+
+- [License](License)
 
 ---
 
